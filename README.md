@@ -1,4 +1,2 @@
 Hi there 👋
-I am a Java developer and also an advocate and a passionate about everything related to technology and the IT field.
-I'm currently finishing a degree in the IT department, 
-which reaches knowledges in different programming languages, network & resources, machine learning, IA, cybersecurity and more.
+Software developer passionate about software and programming. Currently working as a Full-Stack Developer at the Ministry of Health (Santa Fe-Argentina) on a project called 'Training Management system' or 'Sistema de Gestión de Capacitaciones'.
