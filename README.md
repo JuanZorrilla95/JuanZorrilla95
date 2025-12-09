@@ -1,2 +1,1 @@
-Hi there 👋
-Software developer passionate about software and building stuffs.
+I’m a software developer specialized in PHP and backend development, with experience building APIs, optimizing server-side processes, and working with frameworks like Laravel. I focus on clean, efficient, and scalable solutions, always prioritizing business logic and performance. I’ve worked on external service integrations, authentication flows, database structuring, and improving complex application logic. I adapt quickly to changing environments and enjoy solving technical problems in a practical way.
